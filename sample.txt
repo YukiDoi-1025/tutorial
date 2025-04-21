@@ -1,2 +1,3 @@
 git command
 add index
+record commit index
